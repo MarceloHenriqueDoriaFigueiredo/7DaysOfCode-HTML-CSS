@@ -13,4 +13,8 @@ Desafio de 7 dias proposto pela Alura para criação de uma landig page onde o d
 # Versão para Mobile:
 ![image](https://user-images.githubusercontent.com/68343463/162725468-96f501fe-29b0-4c6c-89db-8bc6293adc42.png)
 
+# Tecnologias utilizadas:
+* HTML
+* CSS
+
 Resultado final: https://marcelohenriquedoriafigueiredo.github.io/7DaysOfCode-HTML-CSS/
