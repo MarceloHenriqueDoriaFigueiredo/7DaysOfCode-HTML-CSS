@@ -1,20 +1,46 @@
-# 7DaysOfCode-HTML-CSS
- Desafio de 7 dias para criação de uma landing page propostos pela @Alura
+<h1 align="center"> 7DaysOfCode-HTML-CSS </h1>
 
-![image](https://user-images.githubusercontent.com/68343463/162724019-47c6da5f-5f8e-49b8-8da8-aeb4ad568dc4.png)
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<p align="center">
+<img alt="7daysofcode" src=".github/alura-7DAYSOFCODE.png" width="40%">
+</p>
+
+<br>
+
+<p align="center">
+<h1>Desktop:</h2>
+  <img alt="7daysofcode" src=".github/desktop.png" width="100%">
+<h1>Mobile:</h2>
+  <img alt="7daysofcode" src=".github/mobile.png" width="40%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+
+## 💻 Projeto
 
 Desafio de 7 dias proposto pela Alura para criação de uma landig page onde o desing foi construído no Figma, e foi proposto reproduzir o layout em código, utilizando as tecnologias HTML (linguagem de marcação) e CSS (linguagem de estilos), colocando em praticando tudo o que sabemos ao longo dos nossos estudos.
 
+## 🔖 Layout
 
-# Versão para Desktop:
-![image](https://user-images.githubusercontent.com/68343463/162725104-fdaaafdd-cbc0-409d-b4bc-a0c9ab56131d.png)
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## :memo: Licença
 
-# Versão para Mobile:
-![image](https://user-images.githubusercontent.com/68343463/162725468-96f501fe-29b0-4c6c-89db-8bc6293adc42.png)
+Esse projeto está sob a licença MIT.
 
-# Tecnologias utilizadas:
-* HTML
-* CSS
-
-Resultado final: https://marcelohenriquedoriafigueiredo.github.io/7DaysOfCode-HTML-CSS/
+---
